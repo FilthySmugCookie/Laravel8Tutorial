@@ -1,5 +1,5 @@
-# Laravel8Tutorial
-Laravel 8 From scratch  
+# Laravel9Tutorial
+Laravel 9 From scratch  
 
 Achievement Unlocked completed tutorial  
 Section 1 completed  
